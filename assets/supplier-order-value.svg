@@ -1,24 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="436" viewBox="0 0 960 436" role="img" aria-labelledby="title desc">
-<title id="title">Purchase order value by supplier</title>
-<desc id="desc">Supplier Gamma: $34,865.66; Supplier Alpha: $31,198.34; Supplier Delta: $24,388.28; Supplier Beta: $22,504.20</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="460" viewBox="0 0 960 460" role="img" aria-labelledby="title desc">
+<title id="title">Fictional purchase order value by named example</title>
+<desc id="desc">Named business examples; all orders, amounts, dates and delivery metrics are fictional. Grow The Earth: $34,865.66; Staccato Bakery: $31,198.34; Good Four Season Trading: $24,388.28; Abstinence Spirits: $22,504.20</desc>
 <rect width="100%" height="100%" rx="16" fill="#f6f8fb"/>
-<text x="32" y="42" fill="#142b42" font-family="Arial, sans-serif" font-size="24" font-weight="700">Purchase order value by supplier</text>
+<text x="32" y="42" fill="#142b42" font-family="Arial, sans-serif" font-size="24" font-weight="700">Fictional purchase order value by named example</text>
 <text x="32" y="70" fill="#526479" font-family="Arial, sans-serif" font-size="14">2026-09-01 to 2026-10-01 exclusive · Snapshot 2026-09-30</text>
-<text x="32" y="131" fill="#233b51" font-family="Arial, sans-serif" font-size="15">Supplier Gamma</text>
-<rect x="175" y="106" width="590" height="38" rx="6" fill="#e3eaf1"/>
-<rect x="175" y="106" width="590.0" height="38" rx="6" fill="#1d7487"/>
-<text x="783" y="131" fill="#142b42" font-family="Arial, sans-serif" font-size="15" font-weight="700">$34,865.66</text>
-<text x="32" y="195" fill="#233b51" font-family="Arial, sans-serif" font-size="15">Supplier Alpha</text>
-<rect x="175" y="170" width="590" height="38" rx="6" fill="#e3eaf1"/>
-<rect x="175" y="170" width="527.94" height="38" rx="6" fill="#1d7487"/>
-<text x="783" y="195" fill="#142b42" font-family="Arial, sans-serif" font-size="15" font-weight="700">$31,198.34</text>
-<text x="32" y="259" fill="#233b51" font-family="Arial, sans-serif" font-size="15">Supplier Delta</text>
-<rect x="175" y="234" width="590" height="38" rx="6" fill="#e3eaf1"/>
-<rect x="175" y="234" width="412.7" height="38" rx="6" fill="#1d7487"/>
-<text x="783" y="259" fill="#142b42" font-family="Arial, sans-serif" font-size="15" font-weight="700">$24,388.28</text>
-<text x="32" y="323" fill="#233b51" font-family="Arial, sans-serif" font-size="15">Supplier Beta</text>
-<rect x="175" y="298" width="590" height="38" rx="6" fill="#e3eaf1"/>
-<rect x="175" y="298" width="380.82" height="38" rx="6" fill="#1d7487"/>
-<text x="783" y="323" fill="#142b42" font-family="Arial, sans-serif" font-size="15" font-weight="700">$22,504.20</text>
-<text x="32" y="414" fill="#526479" font-family="Arial, sans-serif" font-size="12">USD · Integer cents used in calculations · Fictional portfolio data</text>
+<text x="32" y="96" fill="#233b51" font-family="Arial, sans-serif" font-size="14" font-weight="700">Named business examples; all orders, amounts, dates and delivery metrics are fictional.</text>
+<text x="32" y="155" fill="#233b51" font-family="Arial, sans-serif" font-size="15">Grow The Earth</text>
+<rect x="280" y="130" width="500" height="38" rx="6" fill="#e3eaf1"/>
+<rect x="280" y="130" width="500.0" height="38" rx="6" fill="#1d7487"/>
+<text x="798" y="155" fill="#142b42" font-family="Arial, sans-serif" font-size="15" font-weight="700">$34,865.66</text>
+<text x="32" y="219" fill="#233b51" font-family="Arial, sans-serif" font-size="15">Staccato Bakery</text>
+<rect x="280" y="194" width="500" height="38" rx="6" fill="#e3eaf1"/>
+<rect x="280" y="194" width="447.41" height="38" rx="6" fill="#1d7487"/>
+<text x="798" y="219" fill="#142b42" font-family="Arial, sans-serif" font-size="15" font-weight="700">$31,198.34</text>
+<text x="32" y="283" fill="#233b51" font-family="Arial, sans-serif" font-size="15">Good Four Season Trading</text>
+<rect x="280" y="258" width="500" height="38" rx="6" fill="#e3eaf1"/>
+<rect x="280" y="258" width="349.75" height="38" rx="6" fill="#1d7487"/>
+<text x="798" y="283" fill="#142b42" font-family="Arial, sans-serif" font-size="15" font-weight="700">$24,388.28</text>
+<text x="32" y="347" fill="#233b51" font-family="Arial, sans-serif" font-size="15">Abstinence Spirits</text>
+<rect x="280" y="322" width="500" height="38" rx="6" fill="#e3eaf1"/>
+<rect x="280" y="322" width="322.73" height="38" rx="6" fill="#1d7487"/>
+<text x="798" y="347" fill="#142b42" font-family="Arial, sans-serif" font-size="15" font-weight="700">$22,504.20</text>
+<text x="32" y="438" fill="#526479" font-family="Arial, sans-serif" font-size="12">USD · Integer cents used in calculations · Fictional portfolio data</text>
 </svg>
