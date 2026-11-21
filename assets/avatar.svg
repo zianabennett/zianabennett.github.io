@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" role="img" aria-labelledby="title desc">
+<title id="title">Ziana Bennett initials avatar</title>
+<desc id="desc">Cream ZB initials on a deep forest green background with a fine circular border.</desc>
+<rect width="500" height="500" fill="#193d35"/>
+<circle cx="250" cy="250" r="210" fill="none" stroke="#d8dfcd" stroke-width="2"/>
+<circle cx="250" cy="250" r="191" fill="none" stroke="#6b8a74" stroke-opacity="0.48" stroke-width="1"/>
+<text x="244" y="315" text-anchor="middle" fill="#f6f4eb" font-family="Georgia, Liberation Serif, serif" font-size="211" font-weight="400" letter-spacing="-8">ZB</text>
+<path d="M193 350 H307" stroke="#dfa98a" stroke-width="5" stroke-linecap="round"/>
+</svg>
